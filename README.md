@@ -12,6 +12,15 @@ My approach combines technical rigor with strategic vision, allowing me to creat
 
 ---
 
+### Languages
+
+- **Portuguese (Brazilian)**: Native
+- **English**: C2 Proficient (Cambridge CPE, TOEFL iBT 113/120, SAT Evidence-Based Reading and Writing 732/800)
+- **Spanish**: B2 Upper Intermediate (DELE)
+- **French**: B1 Intermediate (DELF)
+
+---
+
 ### Technical Skills
 
 #### Software Architecture and Development
