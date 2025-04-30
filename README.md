@@ -52,7 +52,7 @@ My approach combines technical rigor with strategic vision, allowing me to creat
 - Enterprise System Integration
 
 #### JavaScript/TypeScript Development
-- Frontend: React, Vue.js, Svelte
+- Frontend: JavaScript, React, Vue.js, Svelte
 - Backend: Node.js, Deno, Express
 - State Management (Redux, Vuex, Pinia)
 - Testing (Jest, Vitest, Cypress)
