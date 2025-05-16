@@ -12,30 +12,6 @@ My approach combines technical rigor with strategic vision, allowing me to creat
 
 ---
 
-### Projects
-
-#### WAVR2331
-**Minecraft Commissioned Addon (JavaScript)**
-
-Custom Minecraft addon developed on commission. Created to fulfill specific requirements from Marketplace Teams, enabling unique and monetizable gaming experiences. Complete development from initial concept to final implementation and client delivery.
-
-#### ROH7204
-**AI + AR Based Product for General Use (TypeScript)**
-
-Innovative solution in development that combines Artificial Intelligence and Augmented Reality for various applications. Scalable architecture focused on real-time data processing and immersive interactivity. Uses modern TypeScript frameworks to ensure robustness and type safety.
-
-#### UAX92013
-**Professional Enterprise Site/Landing Page/E-Commerce Tracking SaaS (HTML/CSS/JS)**
-
-Professional platform for advanced analysis and tracking of user behavior in corporate digital environments. Offers detailed insights on conversion, engagement, and user journey, with customizable dashboards and automated reports for continuous results optimization.
-
-#### NAU03219
-**Minecraft Marketplace Addon Project (JavaScript)**
-
-Premium addon for the official Minecraft Marketplace. Complete development including visual resources, custom behaviors, and innovative game mechanics. Integration with Microsoft's official store for global distribution and monetization.
-
----
-
 ### Languages
 
 - **Portuguese (Brazilian)**: Native
